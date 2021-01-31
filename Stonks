@@ -1,0 +1,9 @@
+
+$nomention
+$argsCheck[>1;Por favor mencione um usuário]
+$title[Stonks de $username[$mentioned[1;yes]]]
+$image[https://vacefron.nl/api/stonks?user=$userAvatar[$mentioned[1;yes]]]
+$color[bf7eef]
+$footer[Comando Executado por $username]
+$addTimestamp
+$botTyping
